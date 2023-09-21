@@ -18,7 +18,10 @@ public class Sieve {
 				}
 			}
 		}
-
+		for (boolean primes[]:)
+{
+	
+}
 	}
 
 }
